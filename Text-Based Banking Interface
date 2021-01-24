@@ -1,3 +1,5 @@
+# A simple text-based banking interface that lets you create an account, log in and check account balance.
+
 import random
 random.seed(1)
 cards = {}
