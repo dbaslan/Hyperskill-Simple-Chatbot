@@ -1,4 +1,4 @@
-# A simple text-based banking interface that lets you create an account, log in and check account balance.
+# A simple text-based banking interface that lets you create an account, log in and check account balance. Based on Hyperskill exercise.
 
 import random
 random.seed(1)
